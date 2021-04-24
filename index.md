@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Books I have read in past
 
-You can use the [editor on GitHub](https://github.com/devang-marvania/Personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The Infinite Game by Simon Sinek
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Simon is one of my favorite authors for business leadership and here he proves again why. Here, a rare insight is given into how great companies operate and how they stand the test of time. A must-read for anyone trying to understand how to do better on personal or professional life.
 
-```markdown
-Syntax highlighted code block
+### Driving Honda by Jefferey Rothfeder
 
-# Header 1
-## Header 2
-### Header 3
+I have been fascinated by Japanese work culture, especially in the automotive business. A good insight into Honda’s way of engineering, design, and thinking.
 
-- Bulleted
-- List
+### How to win friends and influence people by Dale Carnegie
 
-1. Numbered
-2. List
+This book is like old wine, increases its value with time. This book explains the best ways to understand people and work with them. Also, this book is extremely practical, the application of learnings from this book is direct and the results are almost instantaneous.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devang-marvania/Personal-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
