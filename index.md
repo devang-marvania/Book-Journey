@@ -7,7 +7,7 @@
 
 Rajat Gupta holds a remarkable status in Corporate America. This story describes his meterioteric rise in "The Firm" and fall. Despite of one's opinion about his fall, this book provides a first hand account of strength and taking the situation as is.
 
-
+<img src="Book Images/mind_without_fear.jpg" alt="Mind without fear book image" class="inline"/>
 
 ### The Infinite Game by Simon Sinek
 
