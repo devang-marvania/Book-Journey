@@ -1,5 +1,13 @@
 ## Books I have read in past
 
+### Autonomy by Larry Burns
+
+Autonomy serves as a great documentary of advent of autonomous technology. Larry combines his deep rooted knowledge in traditional automotive industry with the new technology being developed by tech giants and explains how this technology is set to change the way we live. A great read to bring up to speed on historic developments in this field.
+
+<img src="Book Images/autonomy.jpg" alt="Autonomy image" class="inline"/>
+
+
+
 ### The Turnaround Kid by Steve Miller
 
 Steve Miller is known as "US industry's Mr.Fix it". He has built a reputation for taking the helm of troubled companies and turning them around. In his memoir, he provides a first-hand account of problems faced by American Manufacturing and how to "fix it". Additionally, he reflects on his personal life, he shares the success of his career with his wife Maggie Miller, who acted as his "mentor and tormentor" and kept him focused on the job while she fought with brain cancer and ultimately succumbed to it.
