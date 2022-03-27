@@ -1,5 +1,13 @@
 ## Books I have read in past
 
+
+### Rejection Proof by Jia Jiang
+
+Rejection proof is an off beat book written by Jia. It teaches us how to get rid of the fear of rejection and tap into great potential you always had in you. One of the most entertaining and inspiring read I had.
+
+<img src="Book Images/rejection_proof.jpg" alt="Rejection proof image" class="inline"/>
+
+
 ### Autonomy by Larry Burns
 
 Autonomy serves as a great documentary of advent of autonomous technology. Larry combines his deep rooted knowledge in traditional automotive industry with the new technology being developed by tech giants and explains how this technology is set to change the way we live. A great read to bring up to speed on historic developments in this field.
