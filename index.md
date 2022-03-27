@@ -1,5 +1,15 @@
 ## Books I have read in past
 
+### The Turnaround Kid by Steve Miller
+
+Steve Miller is known as "US industry's Mr.Fix it". He has built a reputation for taking the helm of troubled companies and turning them around. In his memoir, he provides a first-hand account of problems faced by American Manufacturing and how to "fix it". Additionally, he reflects on his personal life, he shares the success of his career with his wife Maggie Miller, who acted as his "mentor and tormentor" and kept him focused on the job while she fought with brain cancer and ultimately succumbed to it.
+
+<img src="Book Images/the_turnaround_kid.jpg" alt="The turnaround kid image" class="inline"/>
+
+
+
+
+
 ### Applied Minds by Guru Madhavan
 
 Guru as engineer himself, introduces the toolsets engineers use to make great products. An interesting engineering case study book.
