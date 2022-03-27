@@ -6,6 +6,7 @@
 ### Mind Without Fear by Rajat Gupta
 
 Rajat Gupta holds a remarkable status in Corporate America. This story describes his meterioteric rise in "The Firm" and fall. A great read about Mr.Gupta's nature of taking the charge head on, no matter the situation.
+
 <img src="Book Images/mind_without_fear.jpg" alt="Mind without fear book image" class="inline"/>
 
 ### The Infinite Game by Simon Sinek
