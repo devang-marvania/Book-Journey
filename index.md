@@ -2,6 +2,13 @@
 
 
 
+
+### Mind Without Fear by Rajat Gupta
+
+Rajat Gupta holds a remarkable status in Corporate America. This story describes his meterioteric rise in "The Firm" and fall. Despite of one's opinion about his fall, this book provides a first hand account of strength and taking the situation as is.
+
+
+
 ### The Infinite Game by Simon Sinek
 
 Simon is one of my favorite authors for business leadership and here he proves again why. Here, a rare insight is given into how great companies operate and how they stand the test of time. A must-read for anyone trying to understand how to do better on personal or professional life.
