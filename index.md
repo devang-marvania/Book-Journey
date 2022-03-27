@@ -1,11 +1,16 @@
 ## Books I have read in past
 
 
+### Think Like A Rocket Scientist by Ozan Varol
+
+Ozan Varol here exposes the thought process of rocket scientists which can be applied to personal life to achieve your own moon-shots. Anecdotes from his career as a rocket scientist make this, even more, an enjoyable read.
+
+<img src="Book Images/think_lile_a_rocket_scientist.jpg" alt="Think like a rocket scientist book image" class="inline"/>
 
 
 ### Mind Without Fear by Rajat Gupta
 
-Rajat Gupta holds a remarkable status in Corporate America. This story describes his meterioteric rise in "The Firm" and fall. A great read about Mr.Gupta's nature of taking the charge head on, no matter the situation.
+Rajat Gupta holds a remarkable status in Corporate America. This story describes his late but exceptional rise in "The Firm" and fall. A great read about Mr.Gupta's nature of taking the charge head-on, no matter the situation.
 
 <img src="Book Images/mind_without_fear.jpg" alt="Mind without fear book image" class="inline"/>
 
