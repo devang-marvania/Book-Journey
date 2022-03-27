@@ -1,5 +1,11 @@
 ## Books I have read in past
 
+### Applied Minds by Guru Madhavan
+
+Guru as engineer himself, introduces the toolsets engineers use to make great products. An interesting engineering case study book.
+
+<img src="Book Images/applied_minds.jpg" alt="Applied minds image" class="inline"/>
+
 ### Drive by Daniel Pink
 
 Daniel Pink has a remarkable knack for understanding human behavior and what motivates it. He uncovers the fundamental drivers of intrinsic motivation and how to channel them in work place. A must read for anyone looking to understand their own behavior.
